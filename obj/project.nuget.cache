@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FgdSpq7nqpW/bxxX/4esSBUE9p9HTRE9XtQvsrcjEd9StiatYZinNawf3/5C/my3aXGGPdswJI0ZLSq36CTsAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cvv081\\OneDrive - AFRY\\Desktop\\Make again RestFul Api's\\ContactsMvcApp\\ContactsMvcApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cvv081\\.nuget\\packages\\system.net.http.json\\7.0.0\\system.net.http.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\cvv081\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\cvv081\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

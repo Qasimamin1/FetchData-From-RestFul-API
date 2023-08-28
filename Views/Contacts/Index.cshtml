@@ -1,0 +1,26 @@
+﻿@model IEnumerable<ContactsMvcApp.Models.Contact>
+
+<div class="table-responsive">
+    <!-- Responsive table container -->
+    <table class="table table-striped table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var contact in Model)
+            {
+                <tr>
+                    <td>@contact.FullName</td>
+                    <td>@contact.Email</td>
+                    <td>@contact.Phone</td>
+                    <td>@contact.Address</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
